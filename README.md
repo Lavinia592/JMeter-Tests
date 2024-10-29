@@ -13,8 +13,8 @@
 
 3. **Listeners**
 * View Results Tree
--Summary Report
--Aggregate Graph
--Assertion Results
--Response Assertion
+* Summary Report
+* Aggregate Graph
+* Assertion Results
+* Response Assertion
 --------------------------------------------------
