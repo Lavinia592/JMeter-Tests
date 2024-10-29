@@ -4,16 +4,16 @@
 
 ### For each test I added 
 
-1 **Number of Threads** (between 1-5)
+1. **Number of Threads** (between 1-5)
 ---------------------------------------------------
 
-2 **Config Elements** 
+2. **Config Elements** 
     -HTTP Cookie Manager
       -HTTP Requets and 
         -HTTP Caache Manager
 --------------------------------------------------
 
-3 **Listeners** 
+3. **Listeners** 
   -View Results Tree
   -Summary Report
   -Aggregate Graph
