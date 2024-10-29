@@ -7,15 +7,15 @@
 ---------------------------------------------------
 
 2 **Config Elements** 
--HTTP Cookie Manager
--HTTP Requets and 
--HTTP Caache Manager
+  -HTTP Cookie Manager
+  -HTTP Requets and 
+  -HTTP Caache Manager
 --------------------------------------------------
 
 3 **Listeners** 
--View Results Tree
--Summary Report
--Aggregate Graph
--Assertion Results
--Response Assertion
+  -View Results Tree
+  -Summary Report
+  -Aggregate Graph
+  -Assertion Results
+  -Response Assertion
 --------------------------------------------------
